@@ -1,0 +1,5 @@
+1. We can concluse from all the experiments that in case we are having expert designed features which included the efforts made by the domain experts , then simple machine learning models also perfrom very good and are able to give Ml models with good accuracy 
+
+2. We can also conclude that in case the domain experts are not available , then in that case RNN designed with basic LSTM layers were able to perform good without any hyper parameter tuning.
+
+3. Both the machine learning and deep learning model did not good in classifing standing and sitting class as data recieved by the sensors during both the activites was almost same.
